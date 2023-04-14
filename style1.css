@@ -1,0 +1,36 @@
+body {
+    background-image: url(white-concrete-wall_53876-92803.avif);
+    background-size: 100%;
+    background-repeat: repeat;
+}
+h1{
+    font-size: 70px;
+    color: 454d98;
+    font-family: Rockwell,"Courier Bold";
+}
+    p{
+        margin-top: 0px;
+        margin-bottom: 15 px;
+        line-height: 1.4;
+    }
+    .containers{
+        width: 70%;
+        max-width: 1000px;
+
+        margin: 0 auto;
+    }
+    .centre {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        height: 50%;
+        width: 50%;
+      }
+      div.containeri{
+        text-align: center;
+      }
+      
+      ul.myUL {
+        display: inline-block;
+        text-align: left;
+      }
