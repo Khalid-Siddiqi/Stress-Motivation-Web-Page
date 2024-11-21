@@ -1,4 +1,2 @@
 # Stress-Motivation-Web-Page
-I tried to introduce html and css to make a webpage for study related stress
-I am learning Javascirpt and adding it just as I learn.
-This website will be a helping stone for university and college students for them to educate themselves about stress and anxiety and tackle it.
+I created a webpage aimed at helping university and college students understand and manage stress and anxiety related to their studies. Initially built using HTML and CSS, I am progressively integrating JavaScript as I continue learning. This website will serve as a valuable resource for students to educate themselves about stress management and find strategies to cope with it effectively.
